@@ -1,0 +1,9 @@
+cmp.mat
+cmp.mat.dendro.png
+cmp.mat.hist.png
+cmp.mat.labels.txt
+cmp.mat.matrix.png
+data/GCF_5845.fna.gz.sig
+data/GCF_6945.fna.gz.sig
+data/GCF_783305.fna.gz.sig
+.snakemake

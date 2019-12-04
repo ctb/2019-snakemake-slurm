@@ -1,0 +1,6 @@
+channels:
+ - bioconda
+ - r
+ - conda-forge  
+dependencies:
+ - sourmash>=2,<3
