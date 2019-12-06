@@ -1,0 +1,9 @@
+# cluster_config.yml - cluster configuration
+__default__:
+    account: ctbrown
+    partition: bmm
+    time: 01:00:00 # time limit for each job
+    nodes: 1
+    chdir: /home/ctbrown/2019-snakemake-slurm/
+    output: job-%j.out
+    error: job-%j.err
